@@ -1,2 +1,2 @@
-# Desafios-de-Projetos-da-Dio
-Projetos e desafios do Bootcamp Carrefour
+# Desafios-de-Projetos-da-Dio sobre Git/GitHub
+Projetos e desafios do Git/GitHub
