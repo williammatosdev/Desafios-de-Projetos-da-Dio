@@ -1,0 +1,4 @@
+Curso muito bom sobre Git conheci muitos 
+comandos, alguns ja tinha trabalhado porem 
+outros aprendi no decorrer do curso.
+O Git Bash é um terminal extendido para otimizar o uso do Git.
